@@ -1,0 +1,55 @@
+.table_surgery{
+    margin:auto;
+    width:400px;
+    height:310px;
+    margin-top:170px;
+
+       }
+       th,td{
+       border: 1px solid black;
+padding:15px;
+border-collapse:collapse;
+       }
+       table{
+
+width:400px;
+
+
+       }
+       th{
+
+        background-color: darkgreen;
+       }
+       td{
+              background-color: rgb(54, 54, 202);
+       }
+.pay_button{
+background-color: darkgreen;
+color:white;
+border:1px solid white;
+border-radius:5px;
+padding:5px;
+display:inline-block;
+width:70px;
+
+}
+.pay_demo{
+width:80px;
+margin-left: 450px;
+display:inline-block;
+margin-top:5px;
+}
+.payment{
+       
+margin-top:9px;
+margin-left:450px;
+display:inline-block;
+
+}
+tr:hover{
+       background-color:tomato;
+}
+.clear3{
+clear:both;
+
+}

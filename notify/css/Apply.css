@@ -1,0 +1,73 @@
+*{
+
+    margin:0px;
+    padding:0px;
+}
+
+
+.container2{
+width:100%;
+
+
+}
+.wrapper2{
+    width:900px;
+margin:auto;
+}
+.dark2{
+    color:white;
+    background-color:#31353d;
+
+
+}
+ul li{
+
+    width:260px;
+    display:inline-block;
+    height:35px;
+    line-height:35px;
+    text-align:center;
+    
+    }
+    ul li a{
+        color:white;
+        text-decoration:none;
+        display:block;
+    }
+    ul li a:hover{
+    
+    background-color:rgb(245, 55, 219);
+    color:black;
+    
+    }
+    #clear2{
+
+        clear:both;
+    }
+    #label_issue{
+padding:10px;
+
+    }
+    .apply_textarea{
+height:390px;
+width:580px;
+
+        margin: auto;
+        margin-top: 160px;
+    }
+    #submit1{
+border-radius:8px;
+background-color: green;
+color:white;
+padding:7px;
+    }
+   #label_patient_name{
+
+
+   }
+   .textstyle{
+border-radius: 2px;
+height:20px;
+width:300px;
+ }
+ 
